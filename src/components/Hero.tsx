@@ -49,10 +49,6 @@ export default function Hero() {
 
           <div className="hidden md:flex gap-10 mt-16">
             <div className="border-t border-basalt-line pt-3">
-              <p className="font-display text-3xl text-ink">18</p>
-              <p className="text-ink/50 text-xs mt-1">anni di attività</p>
-            </div>
-            <div className="border-t border-basalt-line pt-3">
               <p className="font-display text-3xl text-ink">1.600 m²</p>
               <p className="text-ink/50 text-xs mt-1">posati in media all'anno</p>
             </div>
