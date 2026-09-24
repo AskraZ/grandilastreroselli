@@ -9,6 +9,12 @@ invia una email tramite una funzione serverless Vercel + Resend.
 npm install
 npm run dev
 ```
+a
+a
+a
+a
+a
+
 
 Il sito si apre su `http://localhost:5173`. Il form preventivi non invierà
 email finché non configuri Resend (punto 2) — in locale puoi comunque

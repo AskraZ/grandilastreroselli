@@ -36,7 +36,6 @@ export default function About() {
               piastrellisti e cresce specializzandosi nel taglio e nella posa
               di lastre di grande formato: gres porcellanato, marmo e pietra
               naturale, per abitazioni private e progetti di interior design.
-              
             </p>
           </div>
 
