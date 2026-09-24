@@ -16,8 +16,8 @@ export default function Contact() {
                 +39 351 906 0795
               </a>
               <br />
-              <a href="mailto:info@gioeleroselli87@gmail.com" className="hover:text-stone-dark">
-                gioeleroselli87@gmail.com
+              <a href="mailto:leviroselli78@gmail.com" className="hover:text-stone-dark">
+                leviroselli78@gmail.com
               </a>
             </p>
           </div>
